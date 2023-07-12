@@ -28,8 +28,7 @@ Desarrollé desde cero un sistema ERP para la empresa donde trabajo actualmente 
 
 7. **Recursos Humanos**: Catálogo de empleados, control de descuentos e ingresos, planillas de pago, control de vacaciones, y generación de archivos listos para subir a sítios gubernamentales del país, así como reportes varios de utilidad para el área.
 
-![image](https://github.com/AlexRamirez3104/AlexRamirez3104/assets/37386634/babd57ef-686b-410f-a750-0558390790fb)
-
+![nekitzu](https://github.com/AlexRamirez3104/AlexRamirez3104/assets/37386634/f3e66c8e-d802-4219-8be0-3b4ded01a5d0)
 
 ## Contacto
 
